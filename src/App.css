@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.blank { 
+  font-family: 'Courier New', Courier, monospace;
+  color :aqua
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
